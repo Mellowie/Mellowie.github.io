@@ -1,0 +1,68 @@
+/* Colour Containers*/
+.colour {
+border-width: 12px 12px;
+border-style: dashed;
+margin-bottom: 50px ;
+padding-bottom: 15%;
+}
+
+.colour-container {
+    display:inline-block;
+    
+}
+
+.red {
+background-color:rgb(238, 32, 32);
+border-width: 2px 2px;
+width: 128px;
+text-align: center;
+margin: 0px 50px 0px;
+
+} 
+
+.green {
+background-color: rgb(46, 187, 41);
+border-width: 2px 2px;
+width: 128px;
+text-align: center;
+margin: 0px 50px 0px;
+}
+
+.blue {
+background-color: rgb(41, 94, 168);
+border-width: 2px 2px;
+width: 128px;
+text-align: center;
+margin: 0px 50px 0px;
+}
+
+/* Font Containers*/
+.font {
+    border-width: 12px 12px;
+    border-style: groove;
+    font-family: "Roboto", "serif";
+
+}
+#fontnumberone {
+    font-family: "Roboto", "serif";
+}
+#fontnumbertwo {
+    font-family: "Orbitron", "serif";
+}
+#fontnumberthree {
+    font-family: "Raleway", "serif";
+}
+
+#bold {
+    font-weight: bolder;
+}
+#italic {
+    font-style: italic;;
+}
+/* Text Containers */
+.text {
+   border: 12px 12px;
+   border-style: dashed;
+}
+
+
